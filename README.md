@@ -4,8 +4,8 @@
 
 ### use:
 
--flexbox
--width 
--margin: 0 auto
+- flexbox
+- width 
+- margin: 0 auto
 
 **all three to center both in x and y axis**
